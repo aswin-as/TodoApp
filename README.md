@@ -34,11 +34,6 @@ A simple and clean Todo List Android app built using **Jetpack Compose**, **Kotl
 
 ---
 
-## 🖼️ UI Preview
-
-> *(Add screenshots here if you have)*
-
----
 
 ## 🚀 Getting Started
 
